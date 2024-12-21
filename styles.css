@@ -4556,7 +4556,7 @@ h6 {
     max-width: 100vw;
   }
   .prem3 h2 {
-    font-size: 14px;
+    font-size: 2.83vw;
   }
   .prem3 h5 {
     font-size: 14px;
@@ -5198,5 +5198,3 @@ h6 {
     height: 2.148vw;
   }
 } /*# sourceMappingURL=styles.css.map */
-@media (max-width: 390px) {
-}
